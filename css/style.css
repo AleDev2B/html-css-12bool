@@ -1,0 +1,12 @@
+*{
+  padding: 0;
+  margin: 0 auto;
+  box-sizing: border-box;
+  border:solid 1px;
+  height:100px;
+  background-color:grey;
+}
+
+.container{
+  background-color:pink;
+  }
