@@ -7,6 +7,12 @@
   background-color:grey;
 }
 
-.container{
-  background-color:pink;
-  }
+.col_6 .col_3 {
+  padding:10px;
+  background-color: #fcba03;
+}
+
+.col_6 .col_2 {
+  padding:10px;
+  background-color: #e82e09;
+}
